@@ -1,3 +1,8 @@
+## Version 0.3.0 
+
+ * add `na.true` and `na.false`
+ * Replace `na.most_freq` with `na.mode`
+
 ## Version 0.2.1
 
  * README.md: Fix canonical link to multivariate task view
